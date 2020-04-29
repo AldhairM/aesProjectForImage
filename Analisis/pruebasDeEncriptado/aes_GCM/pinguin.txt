@@ -1,0 +1,4 @@
+Title: Images/pinguin.png
+key: b'=N\x9d\xf2\xa4\xc8\xefjE\x0f\xbcI\xba:\xb5\x96'Time encrypted: 21.45232129096985
+Time encrypted: 36.54020357131958
+Total: 57.99252486228943

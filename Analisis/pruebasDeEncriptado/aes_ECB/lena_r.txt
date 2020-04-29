@@ -1,0 +1,4 @@
+Title: Images/lena_r.png
+key: b'\x05/\xf6M?Am/a\xcb\x10W\x1a\xeaB\x06'Time encrypted: 226.84117007255554
+Time encrypted: 280.1522994041443
+Total: 506.99346947669983

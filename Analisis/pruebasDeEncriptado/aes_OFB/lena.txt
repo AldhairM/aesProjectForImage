@@ -1,0 +1,4 @@
+Title: Images/lena.png
+key: b"\xaf\xdbr\x95\n\xf6{\x8d\x02'<*\x9cv\x90,"Time encrypted: 37.33138394355774
+Time encrypted: 56.7491340637207
+Total: 94.08051800727844

@@ -1,0 +1,4 @@
+Title: Images/barbara.png
+key: b'\xd5\x9bV\xf2\x14\x03\xc1[\xcc\x18\r\xceA\xc4\x85q'Time encrypted: 38.014538526535034
+Time encrypted: 49.13137722015381
+Total: 87.14591574668884

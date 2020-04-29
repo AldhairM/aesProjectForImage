@@ -1,0 +1,4 @@
+Title: Images/logo.png
+key: b'\xbf3\xa1R\xd1\x148\xd0\xa5l2Kv\n\xce;'Time encrypted: 2.552643299102783
+Time encrypted: 6.783705472946167
+Total: 9.33634877204895

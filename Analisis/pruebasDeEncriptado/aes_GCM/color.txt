@@ -1,0 +1,4 @@
+Title: Images/color.png
+key: b'a\xd5\x9di\xbbImX\x96\x94\x94YZ-_\xa8'Time encrypted: 92.2162389755249
+Time encrypted: 133.3986234664917
+Total: 225.6148624420166

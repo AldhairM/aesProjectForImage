@@ -1,0 +1,4 @@
+Title: Images/Mandrill.png
+key: b'4\xfd>\x06\x0f6~\x1f\xf3\x94\x8d\x89c\xa9k\xae'Time encrypted: 36.887643575668335
+Time encrypted: 59.36349391937256
+Total: 96.2511374950409

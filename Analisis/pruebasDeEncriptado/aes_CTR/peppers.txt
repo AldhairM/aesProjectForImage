@@ -1,0 +1,4 @@
+Title: Images/peppers.png
+key: b'\xfb\xcd\xfb\\\xae\x0e\xb4\xd0\xb8\x0e.m\x1d\x1b\xfc\x0b'Time encrypted: 34.67996311187744
+Time encrypted: 54.576072692871094
+Total: 89.25603580474854

@@ -1,0 +1,4 @@
+Title: Images/eye.png
+key: b'\xe5\x8f\xe1]&\x11\xb2=\xa5\xf2\x86\xce\xc2\x15\xb0\xdb'Time encrypted: 3675.2903864383698
+Time encrypted: 4108.809722185135
+Total: 7784.100108623505

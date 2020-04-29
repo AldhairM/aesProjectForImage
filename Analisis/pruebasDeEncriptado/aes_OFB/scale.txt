@@ -1,0 +1,4 @@
+Title: Images/scale.png
+key: b'\xc4\xec\x88\x8c\xae\x7f)\x9d\xbbLf>}\xcf\xcf\xbf'Time encrypted: 21.254960298538208
+Time encrypted: 33.263338804244995
+Total: 54.5182991027832
