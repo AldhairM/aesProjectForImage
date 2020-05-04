@@ -61,11 +61,11 @@ def ReconstructDWT():
 
 if __name__ == "__main__":
     data = "lena"
-    name = "{}.bmp".format(data)
+    name = "{}.png".format(data)
     name = cv2.imread(name, cv2.IMREAD_GRAYSCALE)
     coeffs_from_arr = ProcesoDWT(name)
     Save_txt(coeffs_from_arr)
     name_recon = ReconstructDWT()
-    imageio.imwrite('{}_des.bmp'.format(data), name_recon)
+    imageio.imwrite('{}_des.png'.format(data), name_recon)
     data = "{} procesada".format(data)
     print (data)
