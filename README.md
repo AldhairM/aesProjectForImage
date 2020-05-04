@@ -1,7 +1,9 @@
 # aesProjectForImage
 
 
-Resumen: Con este proyecto se busca implementar distintos modulos para poder realizar una
+## Resumen: 
+         
+         Con este proyecto se busca implementar distintos modulos para poder realizar una
          encriptacion satisfactoria de imagenes y realizar un analisis a diferentes aspectos
          del proceso y sus derivados.
         
