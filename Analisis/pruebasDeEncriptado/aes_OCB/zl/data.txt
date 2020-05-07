@@ -1,0 +1,168 @@
+I started barbara.png
+47.446 %
+6.909 s
+48.161 %
+8.337 s
+48.165 %
+7.841 s
+48.157 %
+8.707 s
+11.727 s
+11.93 s
+12.732 s
+12.789 s
+WARNING:root:Lossy conversion from float64 to uint8. Range [12.000000000000004, 246.00000000000006]. Convert image to uint8 prior to saving to suppress this warning.
+I started black.png
+17.023 %
+0.248 s
+17.023 %
+0.277 s
+17.023 %
+0.286 s
+17.023 %
+0.283 s
+1.021 s
+0.942 s
+0.897 s
+1.042 s
+Images/black.png has failed
+I started color.png
+29.397 %
+13.579 s
+44.416 %
+24.987 s
+45.655 %
+26.65 s
+45.654 %
+25.572 s
+19.963 s
+33.909 s
+36.792 s
+37.126 s
+WARNING:root:Lossy conversion from float64 to uint8. Range [96.00000000000004, 216.00000000000009]. Convert image to uint8 prior to saving to suppress this warning.
+I started eye.png
+47.38 %
+901.255 s
+48.078 %
+936.216 s
+48.071 %
+917.713 s
+48.002 %
+916.186 s
+979.238 s
+1043.612 s
+1034.866 s
+1034.392 s
+WARNING:root:Lossy conversion from float64 to uint8. Range [-8.659739592076221e-15, 255.00000000000023]. Convert image to uint8 prior to saving to suppress this warning.
+I started lena.png
+47.324 %
+9.055 s
+48.136 %
+9.685 s
+48.114 %
+11.055 s
+48.066 %
+7.517 s
+12.398 s
+13.339 s
+13.681 s
+13.732 s
+WARNING:root:Lossy conversion from float64 to uint8. Range [38.99999999999999, 245.00000000000009]. Convert image to uint8 prior to saving to suppress this warning.
+I started lenaV2.png
+47.066 %
+51.723 s
+47.663 %
+50.091 s
+47.757 %
+54.571 s
+47.468 %
+61.471 s
+80.696 s
+87.006 s
+85.989 s
+85.585 s
+WARNING:root:Lossy conversion from float64 to uint8. Range [1.9999999999999967, 255.0000000000001]. Convert image to uint8 prior to saving to suppress this warning.
+I started lena_r.png
+47.076 %
+63.984 s
+47.681 %
+66.342 s
+47.796 %
+73.3 s
+47.518 %
+64.402 s
+82.514 s
+85.191 s
+84.293 s
+68.631 s
+WARNING:root:Lossy conversion from float64 to uint8. Range [-1.3322676295501878e-15, 255.00000000000003]. Convert image to uint8 prior to saving to suppress this warning.
+I started logo.png
+35.652 %
+0.39 s
+46.502 %
+0.496 s
+47.221 %
+0.823 s
+47.06 %
+0.734 s
+1.934 s
+1.693 s
+1.484 s
+1.637 s
+WARNING:root:Lossy conversion from float64 to uint8. Range [-4.263256414560601e-14, 255.00000000000014]. Convert image to uint8 prior to saving to suppress this warning.
+I started Mandrill.png
+47.408 %
+9.715 s
+48.114 %
+7.929 s
+48.133 %
+7.154 s
+48.147 %
+8.17 s
+11.386 s
+15.249 s
+17.212 s
+15.596 s
+WARNING:root:Lossy conversion from float64 to uint8. Range [-3.197442310920451e-14, 240.00000000000009]. Convert image to uint8 prior to saving to suppress this warning.
+I started peppers.png
+47.439 %
+12.02 s
+48.183 %
+9.431 s
+48.189 %
+10.539 s
+48.207 %
+12.387 s
+15.841 s
+15.561 s
+13.149 s
+13.462 s
+WARNING:root:Lossy conversion from float64 to uint8. Range [-4.440892098500626e-16, 227.0000000000001]. Convert image to uint8 prior to saving to suppress this warning.
+I started pinguin.png
+33.817 %
+3.89 s
+44.68 %
+6.403 s
+45.958 %
+5.17 s
+44.806 %
+4.61 s
+7.164 s
+9.597 s
+9.782 s
+9.643 s
+WARNING:root:Lossy conversion from float64 to uint8. Range [-3.552713678800501e-14, 255.0000000000002]. Convert image to uint8 prior to saving to suppress this warning.
+I started scale.png
+47.07 %
+4.581 s
+47.232 %
+3.869 s
+47.377 %
+4.297 s
+47.152 %
+3.612 s
+6.546 s
+7.84 s
+7.285 s
+7.882 s
+WARNING:root:Lossy conversion from float64 to uint8. Range [-1.0824674490095276e-15, 255.00000000000017]. Convert image to uint8 prior to saving to suppress this warning.

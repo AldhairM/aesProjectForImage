@@ -1,4 +1,0 @@
-Title: Images/eye.png
-key: b'\xa3\x86\xc1\xa8\xb9\xd5\x10\xe1\xd5\xa4\x94\xeb\xa3\xf6\x1c\r'Time encrypted: 4244.560076475143
-Time encrypted: 4177.2104251384735
-Total: 8421.770501613617
