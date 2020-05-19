@@ -62,7 +62,7 @@ def decrypt(ciphertext, key, mode="ECB", nonce=None):
         return des.decrypt(ciphertext)
     else:
         des = AES.new(key, AES.MODE_ECB)
-        return des.decrypt(ciphertext).decode('UTF-8')
+        return des.decrypt(ciphertext)
  
 
                            
